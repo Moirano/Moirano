@@ -20,7 +20,7 @@ Bachelor of Arts - Music Technology, June 2021
 <hr>
 
 ## Jobs
-<i>Check out my professional resume on [Linkedin]([https://www.bandlab.com/anthembandlab](https://www.linkedin.com/in/alexmoirano/))</i>
+<i>Check out my professional resume on [Linkedin](https://www.bandlab.com/anthembandlab](https://www.linkedin.com/in/alexmoirano/)</i>
 
 <i>Check out my music on [BandLab](https://www.bandlab.com/anthembandlab)</i>
 
