@@ -1,7 +1,7 @@
 <a name="top"></a>
 <hr>
 
-## Welcome! My name is Alex and this is a bit about me and some of what I've accomplished.
+## Welcome! My name is Alex. This is a bit about me and some of what I've accomplished.
 ## I'm from the East Bay of California and am currently finishing my studies at the University of Denver - Feel free to reach out through the links in my profile!
 [<img src="https://user-images.githubusercontent.com/91146906/162140860-bfb69654-5603-49bd-a7a1-a836ab1c772c.svg" height="35"/>](#education)
 [<img src="https://user-images.githubusercontent.com/91146906/162140921-207cd392-cfe5-40e6-a84e-0a16e19e405a.svg" height="35"/>](#profExp)
