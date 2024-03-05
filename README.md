@@ -20,7 +20,7 @@ Bachelor of Arts - Music Technology, June 2021
 <hr>
 
 ## Jobs
-<i>See my [LinkedIn](www.linkedin.com/in/alexander-moirano-224201234)</i>
+<i>See my [LinkedIn](www.linkedin.com/in/alexmoirano)</i>
 
 <i>Check out my music on [BandLab](https://www.bandlab.com/anthembandlab)</i>
 
