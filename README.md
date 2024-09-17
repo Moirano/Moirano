@@ -74,7 +74,7 @@ Bachelor of Arts - Music Technology, June 2021
         <li>Adobe Creative Cloud</li>
         <li>CPR Certified</li>
        <li>Languages (English, Spanish, Italian)</li>
-       <li>Type Speed - ~90 WPM</li>
+       <li>Type Speed - ~75 WPM</li>
      </ul>
    </td>
  </tr>
